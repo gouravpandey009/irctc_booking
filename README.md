@@ -1,4 +1,3 @@
-```markdown
 # IRCTC-like Railway Management System
 
 A Django-based API for railway ticket booking system with real-time seat availability and booking management.
