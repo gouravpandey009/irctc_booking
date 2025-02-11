@@ -103,7 +103,7 @@ curl -X POST http://localhost:8000/book/1/ \
    ![User Register](screenshots/register_user.png)
    ![Token Generation](screenshots/admin_step_1.png)
    ![Train Routes](screenshots/admin_step_2.png)
-   ![User Login](screenshots/user_login.png.png)
+   ![User Login](screenshots/user_login.png)
    ![Seat Availabilty](screenshots/seat_availabilty.png)
    ![test_seat_availabilty](screenshots/test_seat_availabilty.png)
    ![Booking Successful](screenshots/booking_successful.png)
