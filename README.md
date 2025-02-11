@@ -108,13 +108,6 @@ curl -X POST http://localhost:8000/book/1/ \
    ![test_seat_availabilty](screenshots/test_seat_availabilty.png)
    ![Booking Successful](screenshots/booking_successful.png)
 
-2. Django Admin Panel
-   ![Registered User](screenshots/django/user_admin_1.png)
-   ![User Password Auth](screenshots/django/user_admin_in.png)
-   ![Authentication Token](screenshots/django/auth_token.png)
-   ![Seat Availabilty](screenshots/django/available_seats.png)
-   ![Booking Successful](screenshots/django/bookings.png)
-
 2. Database Screenshots
    ![Token](screenshots/database/1.png)
    ![Auth Permissions](screenshots/database/2.png)
