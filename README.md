@@ -30,8 +30,8 @@ A Django-based API for railway ticket booking system with real-time seat availab
 ### Installation
 1. Clone repository:
    ```bash
-   git clone <your-repository-url>
-   cd irctc-system
+   git clone https://github.com/gouravpandey009/irctc_booking
+   cd irctc_project
    ```
 
 2. Create virtual environment:
